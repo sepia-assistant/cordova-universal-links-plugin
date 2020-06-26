@@ -4,7 +4,7 @@
 
 ### Android
 
-tbd
+[Fixed AndroidManifest.xml path for Cordova Android v7+](https://github.com/sepia-assistant/cordova-universal-links-plugin/commit/d73616cfacc930a000ae88e586c5dfed5b09e2d7)
 
 # --------- Original Readme --------- 
 
